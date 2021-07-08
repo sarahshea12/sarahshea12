@@ -1,4 +1,7 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahshea12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarahshea12&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahshea12&theme=radical" />
+<div/>
 
 <!-- <a href="https://github.com/sarahshea12/Birthday-Master">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sarahshea12&repo=Birthday-Master&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
