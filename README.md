@@ -1,6 +1,6 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=sarahshea12&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahshea12&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahshea12&langs_count=5&hide=css,Handlebars&theme=radical" />
 <div/>
 
 <!-- <a href="https://github.com/sarahshea12/Birthday-Master">
